@@ -1,0 +1,39 @@
+
+.ja{
+  position: absolute;
+  width: 1855px;
+  height: 984px
+  top: 0px;
+  left: 0px;
+}
+.mts{
+  position: absolute;
+  left: 300px;
+  top: 20px;
+}
+.ai{
+  position: absolute;
+  left: 800px;
+  top: 20px;
+}
+.cr{
+  position: absolute;
+  left: 1200px;
+  top: 20px;
+}
+button{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+  color: #2D2D2D;
+
+  background: #D7D7D7;
+  border: 3px solid #040404;
+  box-sizing: border-box;
+  border-radius: 50px;
+
+  width: 250px;
+  height: 80px;
+}
